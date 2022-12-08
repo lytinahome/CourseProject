@@ -16,7 +16,8 @@ depends on pandas and numpy library in python.
 Source code and links to datasets can be found in the folder `source code`.
 
 + step 1: convert the original database (https://www.yelp.com/dataset) from json to csv files
-The unzipped Yelp database consists of several json files, for our analysis, we converted `yelp_academic_dataset_review.json` and `yelp_academic_dataset_business.json` to `review.csv` and `business.csv`, respectively. 
+
+    The unzipped Yelp database consists of several json files, for our analysis, we converted `yelp_academic_dataset_review.json` and `yelp_academic_dataset_business.json` to `review.csv` and `business.csv`, respectively. 
 + step 2: filter out the business associate with food, like "restaurant", "bar" and join the business table with review table
 
     In `review.csv` there is no business name, instead, a business_id was used which also appears in the `business.csv` that contains business name info and address info. This step is to filter restauratant related business entities and correlate review with business, since Yelp includes a variety of shops and services.  
