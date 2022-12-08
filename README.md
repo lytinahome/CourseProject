@@ -14,6 +14,7 @@ depends on pandas and numpy library in python.
 
 ## (4) some sort of code structure or architecture diagram - Documentation of how the software is implemented with sufficient detail so that others can have a basic understanding of your code for future extension or any further improvement: 
 Source code and links to datasets can be found in the folder `source code`.
+
 + step 1: convert the original database (https://www.yelp.com/dataset) from json to csv files
 The unzipped Yelp database consists of several json files, for our analysis, we converted `yelp_academic_dataset_review.json` and `yelp_academic_dataset_business.json` to `review.csv` and `business.csv`, respectively. 
 + step 2: filter out the business associate with food, like "restaurant", "bar" and join the business table with review table
