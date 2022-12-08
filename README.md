@@ -21,6 +21,9 @@ step 6: the personalization part: one main function: `rankDish_personalization`:
 
 ## (5) detailed instructions for reviewers to set up and run code, including possible errors or blockers - Documentation of the usage of the software including either documentation of usages of APIs or detailed instructions on how to install and run a software, whichever is applicable:
 go to the `scource code` folder and run the .ipynb file step by step.
+the demo link can be found:
+BestDish app v1.0 https://drive.google.com/file/d/1WVFKwPkJrjT4LpiaTcQBi_Y-l8FeSRT4/view?usp=sharing
+BestDish app v2.0 https://drive.google.com/file/d/13ebIajsd_hdr8uqF449qHtzRt0laEfWD/view?usp=sharing
 
 
 
