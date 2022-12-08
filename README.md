@@ -6,6 +6,7 @@
 
 ## (2) team member contributions - Brief description of contribution of each team member in case of a multi-person team: 
 team members: Yu Liu (yul10), Qinjingwen Cao (qcao11)
+
 Both team members contribute equally.
 
 ## (3) related work and used libraries/models/previous projects, if any: 
