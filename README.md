@@ -5,7 +5,7 @@
 + By entering the name and zipcode of the restaurant (sometimes also address info if more than one restaurant can be found), the app will provide dish recommendation based on the review on yelp. The app is able to make personalized recommendation by specifying preferred food origin as well. 
 
 ## (2) team member contributions - Brief description of contribution of each team member in case of a multi-person team: 
-team members: Yu Liu (yul10), Qinjingwen Cao ()
+team members: Yu Liu (yul10), Qinjingwen Cao (qcao11)
 Both team members contribute equally.
 
 ## (3) related work and used libraries/models/previous projects, if any: 
