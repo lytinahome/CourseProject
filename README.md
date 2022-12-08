@@ -23,7 +23,7 @@ The unzipped Yelp database consists of several json files, for our analysis, we 
 + step 3: create dish list for different countries and discover dish(es) mentioned in each review
 
     We collected dish names from different countries, and used them to check if a certain review has mentioned any dish(es). Then we exported the reviews where dish(es) are mentioned and the corresponding scores for this restaurant into file `merged_DishInText.csv` 
-+ step 4: for each restaurant, caculated the score of each dish based on weighted average of the stars in reviews. Generated an off-line score table.
++ step 4: for each restaurant, caculated the score of each dish based on weighted average of the stars in reviews. Generated an off-line score table 'score_table_mean.csv'.
 + step 5: the UI of the app: two main functions. 1) `findRestaurant`: use name and zipcode as input and return business id. 2) `rankDish`: use business id as input and return recommended dish.
 + step 6: the personalization part: one main function: `rankDish_personalization`: use business id and food origin as input and return recommended dish.
 
