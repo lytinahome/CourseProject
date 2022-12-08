@@ -13,7 +13,7 @@ Both team members contribute equally.
 depends on pandas and numpy library in python.
 
 ## (4) some sort of code structure or architecture diagram - Documentation of how the software is implemented with sufficient detail so that others can have a basic understanding of your code for future extension or any further improvement: 
-+ step 1: convert the original database from json to csv
++ step 1: convert the original database (https://www.yelp.com/dataset) from json to csv
 + step 2: filter out the business associate with food, like "restaurant", "bar"
 + step 3: join the business table with review table
 + step 4: for each restaurant, caculated the score of each dish based on weighted average of the stars in reviews. Generated an off-line score table.
