@@ -30,7 +30,7 @@ Source code and links to datasets can be found in the folder `source code`.
 + step 6: the personalization part: one main function: `rankDish_personalization`: use business id and food origin as input and return recommended dish.
 
 ## (5) detailed instructions for reviewers to set up and run code, including possible errors or blockers - Documentation of the usage of the software including either documentation of usages of APIs or detailed instructions on how to install and run a software, whichever is applicable:
-go to the `scource code` folder and run the .ipynb file step by step.
+go to the `scource code` folder and run the .ipynb file step by step. `step5_UI.ipynb` is for user inputting a restaurant and retrieving **dish recommendation**. `step6_personalization.ipynb` is for user inputting a restaurant, user's preference and retrieving **personalized dish recommendation**.
 
 the demo link can be found:
 + BestDish app v1.0 https://drive.google.com/file/d/1WVFKwPkJrjT4LpiaTcQBi_Y-l8FeSRT4/view?usp=sharing
