@@ -14,7 +14,8 @@ depends on pandas and numpy library in python.
 
 ## (4) some sort of code structure or architecture diagram - Documentation of how the software is implemented with sufficient detail so that others can have a basic understanding of your code for future extension or any further improvement: 
 Source code and links to datasets can be found in the folder `source code`.
-![CS410 team project diagram](https://user-images.githubusercontent.com/43865938/206520696-57482182-0472-4a1e-a5a9-75ce24b14956.jpg)
+![CS410 team project diagram (1)](https://user-images.githubusercontent.com/43865938/206522716-67af2265-1c19-4882-9a05-e4a02f822afc.jpg)
+
 
 + step 1: convert the original database (https://www.yelp.com/dataset) from json to csv files
 
