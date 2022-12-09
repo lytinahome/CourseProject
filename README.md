@@ -2,15 +2,16 @@
 
 ## (1) an overview of the project - An overview of the function of the code (i.e., what it does and what it can be used for):
 + Goal: an dish recommendation app based on jupyter notebook. 
-+ By entering the name and zipcode of the restaurant (sometimes also address info if more than one restaurant can be found), the app will provide dish recommendation based on the review on yelp. The app is able to make personalized recommendation by specifying preferred food origin as well. 
++ Use case 1: the app is able to provide **dish recommendation** based on the review on yelp. User just need to input restaurant name and zipcode (sometimes also address info if more than one restaurant can be found).
++ Use case 2: The app is able to make **personalized dish recommendation** when user specifies preferred food origin after inputting restaurant name and zipcode. 
 
 ## (2) team member contributions - Brief description of contribution of each team member in case of a multi-person team: 
 team members: Yu Liu (yul10), Qinjingwen Cao (qcao11)
 
-Both team members contribute equally.
+Both team members contribute equally. We colloborated together throughout this project, including collecting raw data, writing code, analyzing data, finalizing the project dcumentation, etc. 
 
 ## (3) related work and used libraries/models/previous projects, if any: 
-depends on pandas and numpy library in python.
+Our project depends on pandas and numpy library in python.
 
 ## (4) some sort of code structure or architecture diagram - Documentation of how the software is implemented with sufficient detail so that others can have a basic understanding of your code for future extension or any further improvement: 
 Source code and links to datasets can be found in the folder `source code`.
@@ -30,11 +31,11 @@ Source code and links to datasets can be found in the folder `source code`.
 + step 6: the personalization part: one main function: `rankDish_personalization`: use business id and food origin as input and return recommended dish.
 
 ## (5) detailed instructions for reviewers to set up and run code, including possible errors or blockers - Documentation of the usage of the software including either documentation of usages of APIs or detailed instructions on how to install and run a software, whichever is applicable:
-go to the `scource code` folder and run the .ipynb file step by step. `step5_UI.ipynb` is for user inputting a restaurant and retrieving **dish recommendation**. `step6_personalization.ipynb` is for user inputting a restaurant, user's preference and retrieving **personalized dish recommendation**.
+Users can refer to the `source code` folder and run the .ipynb files step by step. Two files are for dish recommendation and included in the demo videos below. `step5_UI.ipynb` is for user inputting a restaurant (name and zipcode) and retrieving **dish recommendation**. `step6_personalization.ipynb` is for user inputting a restaurant (name and zipcode), user's food preference and retrieving **personalized dish recommendation**.
 
 the demo link can be found:
-+ BestDish app v1.0 https://drive.google.com/file/d/1WVFKwPkJrjT4LpiaTcQBi_Y-l8FeSRT4/view?usp=sharing
-+ BestDish app v2.0 https://drive.google.com/file/d/13ebIajsd_hdr8uqF449qHtzRt0laEfWD/view?usp=sharing
++ BestDish app v1.0 (`step5_UI.ipynb`) https://drive.google.com/file/d/1WVFKwPkJrjT4LpiaTcQBi_Y-l8FeSRT4/view?usp=sharing
++ BestDish app v2.0 (`step6_personalization.ipynb`) https://drive.google.com/file/d/13ebIajsd_hdr8uqF449qHtzRt0laEfWD/view?usp=sharing
 
 
 
