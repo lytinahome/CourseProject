@@ -31,7 +31,9 @@ Source code and links to datasets can be found in the folder `source code`.
 + step 6: the personalization part: one main function: `rankDish_personalization`: use business id and food origin as input and return recommended dish.
 
 ## (5) detailed instructions for reviewers to set up and run code, including possible errors or blockers - Documentation of the usage of the software including either documentation of usages of APIs or detailed instructions on how to install and run a software, whichever is applicable:
-Users can refer to the `source code` folder and run the .ipynb files step by step. Two files are for dish recommendation and included in the demo videos below. `step5_UI.ipynb` is for user inputting a restaurant (name and zipcode) and retrieving **dish recommendation**. `step6_personalization.ipynb` is for user inputting a restaurant (name and zipcode), user's food preference and retrieving **personalized dish recommendation**.
+Users can refer to the `source code` folder and run the two .ipynb files: `step5_UI.ipynb` for **dish recommendation**, `step6_personalization.ipynb` for **personalized dish recommendation**. Make sure pandas and numpy have been installed on Python 3, and the three required data files (`business.csv`, `score_table_mean.csv`, `all_dish.csv`) have been downloaded and put in the same folder of the Jupyter Notebook files.
+
+Two files are for dish recommendation and included in the demo videos below. `step5_UI.ipynb` is for user inputting a restaurant (name and zipcode) and retrieving **dish recommendation**. `step6_personalization.ipynb` is for user inputting a restaurant (name and zipcode), user's food preference and retrieving **personalized dish recommendation**.
 
 the demo link can be found:
 + BestDish app v1.0 (`step5_UI.ipynb`) https://drive.google.com/file/d/1WVFKwPkJrjT4LpiaTcQBi_Y-l8FeSRT4/view?usp=sharing
