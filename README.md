@@ -8,7 +8,7 @@
 ## (2) team member contributions - Brief description of contribution of each team member in case of a multi-person team: 
 team members: Yu Liu (yul10), Qinjingwen Cao (qcao11)
 
-Both team members contribute equally. We colloborated together throughout this project, including collecting raw data, writing code, analyzing data, finalizing the project dcumentation, etc. 
+Both team members contribute equally. We collaborated together throughout this project, including collecting raw data, writing code, analyzing data, finalizing the project dcumentation, etc. 
 
 ## (3) related work and used libraries/models/previous projects, if any: 
 Our project depends on pandas and numpy library in python.
