@@ -2,8 +2,8 @@
 
 ## (1) an overview of the project - An overview of the function of the code (i.e., what it does and what it can be used for):
 + Goal: an dish recommendation app based on jupyter notebook. 
-+ Use case 1: the app is able to provide **dish recommendation** based on the review on yelp. User just need to input restaurant name and zipcode (sometimes also address info if more than one restaurant can be found).
-+ Use case 2: The app is able to make **personalized dish recommendation** when user specifies preferred food origin after inputting restaurant name and zipcode. 
++ BestDish app v1.0 (use case 1): the app is able to provide **dish recommendation** based on the review on yelp. User just need to input restaurant name and zipcode (sometimes also address info if more than one restaurant can be found).
++ BestDish app v2.0 (use case 2): The app is able to make **personalized dish recommendation** when user specifies preferred food origin after inputting restaurant name and zipcode. 
 
 ## (2) team member contributions - Brief description of contribution of each team member in case of a multi-person team: 
 team members: Yu Liu (yul10), Qinjingwen Cao (qcao11)
