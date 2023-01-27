@@ -35,9 +35,7 @@ Users can refer to the `source code` folder and run the two .ipynb files: `step5
 
 Two files are for dish recommendation and included in the demo videos below. `step5_UI.ipynb` is for user inputting a restaurant (name and zipcode) and retrieving **dish recommendation**. `step6_personalization.ipynb` is for user inputting a restaurant (name and zipcode), user's food preference and retrieving **personalized dish recommendation**.
 
-the demo link can be found:
-+ BestDish app v1.0 (`step5_UI.ipynb`) https://drive.google.com/file/d/1WVFKwPkJrjT4LpiaTcQBi_Y-l8FeSRT4/view?usp=sharing
-+ BestDish app v2.0 (`step6_personalization.ipynb`) https://drive.google.com/file/d/13ebIajsd_hdr8uqF449qHtzRt0laEfWD/view?usp=sharing
+
 
 
 
